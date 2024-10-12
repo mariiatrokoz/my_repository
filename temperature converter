@@ -1,4 +1,4 @@
-# 12.10.24, Kyiv. 1st ever somewhat intricate program I wrote together with Chat GTP's socratic questions. Thank you AI for your kind support!
+# 12.10.24 #1
 
 t = int(input('Enter a T-value: '))
 unit = int(input('Press 1 for Celsius and 2 for Fahrenheit: '))
