@@ -8,7 +8,7 @@ This is a learning project that involves building and evaluating a linear regres
 3. [Usage](#usage)
 4. [Code Structure](#code-structure)
 5. [Outputs](#outputs)
-6. [Summary] (#summary)
+6. [Summary](#summary)
 7. [Requirements](#requirements)
 8. [Acknowledgements](#acknowledgements)
 
