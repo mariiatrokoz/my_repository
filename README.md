@@ -8,8 +8,9 @@ This is a learning project that involves building and evaluating a linear regres
 3. [Usage](#usage)
 4. [Code Structure](#code-structure)
 5. [Outputs](#outputs)
-6. [Requirements](#requirements)
-7. [Acknowledgements](#acknowledgements)
+6. [Summary] (#summary)
+7. [Requirements](#requirements)
+8. [Acknowledgements](#acknowledgements)
 
 ## Project Description
 The following dataset information was used to predict the yearly amount spent by a customer: 
@@ -79,6 +80,8 @@ The code is organized into modular functions:
    - Root Mean Squared Error (RMSE)
 
 3. **Coefficients Table**: Indicates the contribution of each feature to the target variable.
+
+## Summary
 
 ## Requirements
 - Python 3.6+
