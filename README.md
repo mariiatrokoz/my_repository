@@ -1,4 +1,4 @@
-# Ecommerce Linear Regression Project
+# Ecommerce Linear Regression Project 
 
 This is a learning project that involves building and evaluating a linear regression model to analyze customer data from an ecommerce website. The model predicts the yearly amount spent by a customer based on several factors like session length, time spent on the app, time on the website, and membership duration.
 
